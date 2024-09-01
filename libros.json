@@ -1,0 +1,30 @@
+[
+    {
+        "titulo": "Harry Potter and the cursed child",
+        "autor": "J.K. Rowling",
+        "categoria": "Fantasy and Drama",
+        "isbn": "9780606384964",
+        "prestado": false
+    },
+    {
+        "titulo": "The Chronicles of Narnia : The Lion, The Witch and The Wardrobe",
+        "autor": "C.S.Lewis",
+        "categoria": "Fantasy and  Fiction",
+        "isbn": "978-0060842536",
+        "prestado": false
+    },
+    {
+        "titulo": "The Hunger Games : The Ballad of Songbirds and Snakes",
+        "autor": "Suzanne Collins",
+        "categoria": " Dystopia, Fantasy and Fiction",
+        "isbn": "9781338635171",
+        "prestado": false
+    },
+    {
+        "titulo": "Maria: A Novel of Maria von Trapp",
+        "autor": "Michelle Moran",
+        "categoria": "Historical and Music",
+        "isbn": "9780593499481",
+        "prestado": true
+    }
+]
